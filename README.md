@@ -1,5 +1,4 @@
 # Data_Analysis
-- 패스트캠퍼스
 
 ## outline
 | 단원 | 이름 | 
